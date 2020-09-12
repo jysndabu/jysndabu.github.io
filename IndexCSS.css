@@ -5,12 +5,11 @@
 }
 
 body {
-    background-image: url(BG.jpg);
+    background-image: url(BG.JPG);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    overflow-y: hidden;
 }
 
 .wrapper {
